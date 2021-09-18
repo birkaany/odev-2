@@ -1,2 +1,2 @@
-# project-1-ilk-web-sitesi
-Kodluyoruz ile ilk proje, İlk Web Sitesi
+# project-1-ilk-web-sitesi - Ödev 2
+"Kişisel Sayfamızı Detaylandırmaya Devam Etmek" Ödevi
